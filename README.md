@@ -265,6 +265,30 @@ This notebook builds and evaluates a SARIMA model for predicting gas prices over
 |----|----------------|-----------|--------|
 | 2  | Toronto, ON    | 2023-12   | 143.7  |
 
+### Example Outputs
+
+#### **Basic Statistics**
+![Basic Statistics Output](outputs/1_basic_statistics_output1.png)
+
+#### **Regional Price Comparison**
+![Regional Price Comparison Output](outputs/2_region_price_comparison_output.png)
+
+#### **Time Trend Analysis**
+![Time Trend Analysis Output](outputs/3_time_trend_analysis_output.png)
+
+#### **Correlation Analysis**
+![Correlation Analysis Output](outputs/4_correlation_analysis_output.png)
+
+#### **Clustering**
+![Clustering Output](outputs/5_clustering_output.png)
+
+#### **Recommendation System**
+![Recommendation System Output](outputs/6_recommendation_system_output.png)
+
+#### **Prediction**
+![Prediction Output 1](outputs/7_prediction_output1.png)
+![Prediction Output 2](outputs/7_prediction_output2.png)
+
 ---
 
 ## Dependencies
