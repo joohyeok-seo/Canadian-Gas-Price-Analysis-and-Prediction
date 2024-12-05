@@ -1,9 +1,44 @@
 # Canadian-Gas-Price-Analysis-and-Prediction
-A project analyzing Canadian gas prices, including statistical insights, regional trends, and predictive models like SARIMA and clustering for data-driven recommendations.
+This project analyzes and predicts gas prices across Canada using MySQL for data storage and Python for data processing.
 
-## 1. Basic Statistics
+## Table of Contents
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+3. [Setup Instructions](#setup-instructions)
+4. [Analysis Files](#analysis-files)
+5. [Data and Database](#data-and-database)
+6. [Results and Outputs](#results-and-outputs)
+7. [Dependencies](#dependencies)
+8. [Future Work](#future-work)
 
-### Purpose
+---
+
+## Key Features
+- Database setup for structured gas price storage.
+- Statistical analysis, clustering, and time-series forecasting.
+- User-specific gas station recommendation system.
+
+---
+
+## Setup Instructions
+1. Run `qurry7.sql` to create the database.
+2. Execute `insert_canada_gas_prices.ipynb` to load data.
+3. Run analysis notebooks (`1_basic_statistics.ipynb` to `7_prediction.ipynb`).
+
+---
+
+## Analysis Files
+- **1_basic_statistics.ipynb**: Calculates basic statistics.
+- **2_region_price_comparison.ipynb**: Compares prices by region.
+- **3_time_trend_analysis.ipynb**: Analyzes trends over time.
+- **4_correlation_analysis.ipynb**: Correlation between regions.
+- **5_clustering.ipynb**: Groups data using K-means.
+- **6_recommendation_system.ipynb**: Suggests optimal fuel options.
+- **7_prediction.ipynb**: Predicts future gas prices.
+
+### 1. Basic Statistics
+
+#### Purpose
 This notebook calculates fundamental statistics and visualizes the data distribution for gas prices across regions and fuel types.
 
 ### Key Features
@@ -26,8 +61,6 @@ This notebook calculates fundamental statistics and visualizes the data distribu
 ### Libraries Used
 - `pandas`: For data manipulation.
 - `matplotlib` and `seaborn`: For visualizations.
-
----
 
 ## 2. Region Price Comparison
 
@@ -52,8 +85,6 @@ This notebook analyzes and visualizes the differences in average fuel prices by 
 - `pandas`: For data manipulation.
 - `seaborn` and `matplotlib`: For creating clear and detailed visualizations.
 
----
-
 ## 3. Time Trend Analysis
 
 ### Purpose
@@ -74,8 +105,6 @@ This notebook analyzes the trends in fuel prices over time and visualizes the mo
 ### Libraries Used
 - `pandas`: For data manipulation and grouping.
 - `seaborn` and `matplotlib`: For creating detailed visualizations.
-
----
 
 ## 4. Correlation Analysis
 
@@ -101,8 +130,6 @@ This notebook analyzes the correlation between average gas prices across differe
 
 ### Example Output
 - Heatmap showing the correlation between cities with annotations for precise correlation values.
-
----
 
 ## 5. Clustering
 
@@ -140,8 +167,6 @@ This notebook applies clustering algorithms (K-means) to group gas price data in
   - Cluster 1: 167.10
   - Cluster 2: 160.65
  
----
-
 ## 6. Recommendation System
 
 ### Purpose
@@ -178,8 +203,6 @@ This notebook implements a recommendation system that suggests the best gas stat
 ### Notes
 - The database must include tables for regular, premium, and diesel gas prices.
 - User inputs should match the available regions and fuel types in the database.
-
----
 
 ## 7. Prediction
 
