@@ -237,3 +237,44 @@ This notebook builds and evaluates a SARIMA model for predicting gas prices over
 
 #### Example Output
 - Forecasted Prices:
+
+---
+
+## Data and Database
+- **Database**: MySQL (`project_db`).
+- **Tables**:
+  - `premium_gas_prices_canada`
+  - `regular_gas_prices_canada`
+  - `diesel_prices_canada`
+- **CSV Files**:
+  - `premium_gas_prices_canada.csv`
+  - `regular_gas_prices_canada.csv`
+  - `diesel_prices_canada.csv`
+
+---
+
+## Results and Outputs
+#### Predicted Prices (SARIMA)
+| Date       | Forecasted Price |
+|------------|------------------|
+| 2024-11-30 | 165.35           |
+| 2024-12-31 | 172.72           |
+
+#### Database Example
+| id | region         | month     | price  | 
+|----|----------------|-----------|--------|
+| 2  | Toronto, ON    | 2023-12   | 143.7  |
+
+---
+
+## Dependencies
+- Python 3.8 or higher
+- Libraries: `pandas`, `sqlalchemy`, `statsmodels`, `matplotlib`, `seaborn`, `sklearn`
+- MySQL server
+
+---
+
+## Future Work
+- Extend prediction models to include additional external factors.
+- Improve clustering accuracy with advanced methods.
+- Build a web interface for real-time recommendations.
