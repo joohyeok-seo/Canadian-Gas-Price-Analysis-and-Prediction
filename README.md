@@ -268,7 +268,9 @@ This notebook builds and evaluates a SARIMA model for predicting gas prices over
 ### Example Outputs
 
 #### **Basic Statistics**
-![Basic Statistics Output](outputs/1_basic_statistics_output1.png)
+![Basic Statistics Output 1](outputs/1_basic_statistics_output1.png)
+![Basic Statistics Output 2](outputs/1_basic_statistics_output2.png)
+![Basic Statistics Output 2](outputs/1_basic_statistics_output3.png)
 
 #### **Regional Price Comparison**
 ![Regional Price Comparison Output](outputs/2_region_price_comparison_output.png)
