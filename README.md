@@ -2,14 +2,13 @@
 This project analyzes and predicts gas prices across Canada using MySQL for data storage and Python for data processing.
 
 ## Table of Contents
-1. [Overview](#overview)
-2. [Key Features](#key-features)
-3. [Setup Instructions](#setup-instructions)
-4. [Analysis Files](#analysis-files)
-5. [Data and Database](#data-and-database)
-6. [Results and Outputs](#results-and-outputs)
-7. [Dependencies](#dependencies)
-8. [Future Work](#future-work)
+1. [Key Features](#key-features)
+2. [Setup Instructions](#setup-instructions)
+3. [Analysis Files](#analysis-files)
+4. [Data and Database](#data-and-database)
+5. [Results and Outputs](#results-and-outputs)
+6. [Dependencies](#dependencies)
+7. [Future Work](#future-work)
 
 ---
 
