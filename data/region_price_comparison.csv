@@ -1,0 +1,55 @@
+region,fuel_type,avg_price
+"Calgary, Alberta",Diesel,162.1769230769231
+"Calgary, Alberta",Premium,168.54615384615383
+"Calgary, Alberta",Regular,143.66153846153844
+Canada,Regular,156.66153846153844
+"Charlottetown and Summerside, Prince Edward Island",Diesel,188.83076923076925
+"Charlottetown and Summerside, Prince Edward Island",Premium,177.6076923076923
+"Charlottetown and Summerside, Prince Edward Island",Regular,166.42307692307693
+"Edmonton, Alberta",Diesel,158.25384615384615
+"Edmonton, Alberta",Premium,166.03846153846155
+"Edmonton, Alberta",Regular,140.56153846153845
+"Halifax, Nova Scotia",Diesel,184.1769230769231
+"Halifax, Nova Scotia",Premium,176.43846153846152
+"Halifax, Nova Scotia",Regular,164.6769230769231
+"Montréal, Quebec",Diesel,183.21538461538464
+"Montréal, Quebec",Premium,190.96923076923076
+"Montréal, Quebec",Regular,166.08461538461538
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Diesel,166.34615384615384
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Premium,184.08461538461538
+"Ottawa-Gatineau, Ontario part, Ontario/Quebec",Regular,154.7923076923077
+"Québec, Quebec",Diesel,184.8
+"Québec, Quebec",Premium,191.71538461538464
+"Québec, Quebec",Regular,166.53076923076924
+"Regina, Saskatchewan",Diesel,166.73076923076923
+"Regina, Saskatchewan",Premium,174.76923076923077
+"Regina, Saskatchewan",Regular,150.40769230769232
+"Saint John, New Brunswick",Diesel,182.8153846153846
+"Saint John, New Brunswick",Premium,173.57692307692307
+"Saint John, New Brunswick",Regular,162.76153846153846
+"Saskatoon, Saskatchewan",Diesel,169.23076923076923
+"Saskatoon, Saskatchewan",Premium,171.60000000000002
+"Saskatoon, Saskatchewan",Regular,148.19230769230768
+"St. John's, Newfoundland and Labrador",Diesel,191.52307692307693
+"St. John's, Newfoundland and Labrador",Premium,178.42307692307693
+"St. John's, Newfoundland and Labrador",Regular,172.56153846153848
+"Thunder Bay, Ontario",Premium,185.43846153846152
+"Thunder Bay, Ontario",Regular,157.04615384615383
+"Toronto, Ontario",Diesel,161.30769230769232
+"Toronto, Ontario",Premium,184.2153846153846
+"Toronto, Ontario",Regular,154.9923076923077
+"Vancouver, British Columbia",Diesel,187.65384615384616
+"Vancouver, British Columbia",Premium,207.5076923076923
+"Vancouver, British Columbia",Regular,182.83076923076925
+"Victoria, British Columbia",Diesel,182.35384615384615
+"Victoria, British Columbia",Premium,205.42307692307693
+"Victoria, British Columbia",Regular,181.62307692307692
+"Whitehorse, Yukon",Diesel,194.2076923076923
+"Whitehorse, Yukon",Premium,197.8846153846154
+"Whitehorse, Yukon",Regular,184.37692307692308
+"Winnipeg, Manitoba",Diesel,163.1846153846154
+"Winnipeg, Manitoba",Premium,162.19230769230768
+"Winnipeg, Manitoba",Regular,138.26923076923077
+"Yellowknife, Northwest Territories",Diesel,181.8923076923077
+"Yellowknife, Northwest Territories",Premium,180.1846153846154
+"Yellowknife, Northwest Territories",Regular,162.45384615384617
